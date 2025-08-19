@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86ec5d713bdc0fd48b0700cc3b82612b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example2D/Prefabs/Sword.prefab
+  uploadId: 762780

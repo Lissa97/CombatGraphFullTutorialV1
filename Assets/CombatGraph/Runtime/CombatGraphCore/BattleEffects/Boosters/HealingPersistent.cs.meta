@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f22050f81054a3740a03e7ca398edb58
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Runtime/CombatGraphCore/BattleEffects/Boosters/HealingPersistent.cs
+  uploadId: 762780

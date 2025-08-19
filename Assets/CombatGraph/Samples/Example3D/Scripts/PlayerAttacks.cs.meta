@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 89b92a9d617655a4084c281abfc209d4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example3D/Scripts/PlayerAttacks.cs
+  uploadId: 762780

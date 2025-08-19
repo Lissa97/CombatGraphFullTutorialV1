@@ -1,0 +1,19 @@
+{
+    "name": "CombatGraphEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ef229af97dd958b47b57da0cfb2e9aa1",
+        "GUID:0b062c9073dfa524db077fc155893f31"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

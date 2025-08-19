@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5039ba2d05c5f9d48a9bd8c2ff7819a4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Runtime/EntryPoint/CombatEntity.cs
+  uploadId: 762780

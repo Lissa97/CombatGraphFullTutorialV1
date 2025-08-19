@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c39cc820e74b2c2458a7536bfa309253
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example3D/CombatEntities/Player.asset
+  uploadId: 762780

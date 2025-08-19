@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2a3dba7bda752744b5a24e17f2ec353
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example2D/Prefabs/PlayerMana.prefab
+  uploadId: 762780

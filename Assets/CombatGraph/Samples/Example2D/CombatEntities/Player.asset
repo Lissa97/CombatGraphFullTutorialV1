@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f11a56d79ce59944b92f29b1067a67f, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  stats:
+    MaxHp: 60
+    Def: 20
+    ATK: 10
+    CritDMG: 50
+    CritRate: 20
+    DodgeRate: 20
+    MaxMana: 100
+    maxOnStartPercent: 100
+  serializer:
+    buffs:
+    - data: '{"actionName":6,"additionalMana":10}'
+      type: CombatGraph.ManaRegenerationOnAction, CombatGraphCore, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      position: {x: -254.40002, y: -160.79997}
+    - data: '{"actionName":8,"healingCount":2}'
+      type: CombatGraph.HealingOnAction, CombatGraphCore, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      position: {x: -254.40001, y: 186.39996}
+    - data: '{"actionName":7,"critRateIncrease":5,"cap":80}'
+      type: CombatGraph.CritRateIncrease, CombatGraphCore, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      position: {x: -254.40001, y: -0.00004005432}
+    attacks:
+    - data: '{"atkName":"Basic Attack","attackDelay":1.0,"attackDuration":0.0,"readyOnStart":true,"atkPercentDamage":156,"isPiercing":false}'
+      type: CombatGraph.BasicAttack, CombatGraphCore, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      position: {x: 187.92, y: -10.399982}
+    - data: '{"atkName":"Mana Attack","attackDelay":3.0,"attackDuration":0.0,"readyOnStart":true,"atkPercentDamage":100,"isPiercing":true,"manaRequire":50}'
+      type: CombatGraph.ManaAttack, CombatGraphCore, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      position: {x: 187.99997, y: 258.4}

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5b32072229ce4164d9355af40be62e13
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example3D/Scripts/HPSlider.cs
+  uploadId: 762780

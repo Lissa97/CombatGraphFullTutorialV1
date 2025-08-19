@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1605e1da0e226f34a826921c830983d4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Runtime/CombatGraphCore/Essentials/EffectsHolder.cs
+  uploadId: 762780

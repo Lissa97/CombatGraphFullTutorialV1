@@ -1,0 +1,22 @@
+.big-bold-label {
+    font-size: 15px;
+    max-font-size: 15px;
+    unity-font-style: bold;
+    color: #18a13d; 
+    letter-spacing: 1px;
+}
+
+.little-bold-label {
+    font-size: 12px;
+    unity-font-style: bold;
+    color: #9c9c9c; 
+    letter-spacing: 1px;
+}
+
+.buff-title {
+    font-size: 12px;
+    unity-font-style: bold;
+    color: #f0b44d; 
+    background: #f0b44d; 
+    letter-spacing: 1px;
+}

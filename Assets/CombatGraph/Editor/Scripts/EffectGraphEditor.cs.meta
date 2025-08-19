@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 786f7a51f7af5304d846e58365f286e0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Editor/Scripts/EffectGraphEditor.cs
+  uploadId: 762780

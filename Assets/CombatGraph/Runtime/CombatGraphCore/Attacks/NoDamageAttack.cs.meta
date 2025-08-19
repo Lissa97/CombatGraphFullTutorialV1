@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3019f74f3ab9ac04c893909b0ff5e91f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Runtime/CombatGraphCore/Attacks/NoDamageAttack.cs
+  uploadId: 762780

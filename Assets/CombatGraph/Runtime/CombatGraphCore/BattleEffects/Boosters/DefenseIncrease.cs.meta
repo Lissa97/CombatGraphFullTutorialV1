@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fa478a7d443de234ebd7ac842bc01bc2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Runtime/CombatGraphCore/BattleEffects/Boosters/DefenseIncrease.cs
+  uploadId: 762780

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: acbad3a7e2c9fa14fb17ed09c0183e1f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example2D/Scripts/GameController.cs
+  uploadId: 762780

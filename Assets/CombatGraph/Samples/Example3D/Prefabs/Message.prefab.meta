@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ea2b55381b9ca3459384d8f54a672d5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example3D/Prefabs/Message.prefab
+  uploadId: 762780

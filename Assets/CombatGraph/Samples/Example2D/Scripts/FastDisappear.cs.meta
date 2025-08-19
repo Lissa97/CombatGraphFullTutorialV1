@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: bdb2d08510471a24ba0a5aab9261d1e8
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example2D/Scripts/FastDisappear.cs
+  uploadId: 762780

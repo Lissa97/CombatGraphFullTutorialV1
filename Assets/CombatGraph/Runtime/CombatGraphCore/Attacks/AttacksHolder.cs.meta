@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 28716c811bb14e84e903712b1aa2a31a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Runtime/CombatGraphCore/Attacks/AttacksHolder.cs
+  uploadId: 762780

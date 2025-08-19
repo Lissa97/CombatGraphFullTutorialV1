@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 40f48bb3309a7d54e99b96fc59461e2c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example3D/Scripts/ForwardMovments.cs
+  uploadId: 762780

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d7a310fdf4f27a94f89928ccaf2e9aa0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example3D/Scripts/Weapon.cs
+  uploadId: 762780

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f0ace904cb9fbb646a9c5e0cc9e7e018
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Runtime/CombatGraphCore/Attacks/ManaAttack.cs
+  uploadId: 762780

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 80f049c17dbd3a24e9401cd1d0823b93
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example3D/Scripts/EnemyAttacks.cs
+  uploadId: 762780

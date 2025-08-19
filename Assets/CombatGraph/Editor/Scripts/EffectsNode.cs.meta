@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 675d6493a7473f7419c05478f8343903
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Editor/Scripts/EffectsNode.cs
+  uploadId: 762780

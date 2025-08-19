@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3081675a46e31354e94a1ac243114898
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example2D/Scripts/PlayerMovments.cs
+  uploadId: 762780

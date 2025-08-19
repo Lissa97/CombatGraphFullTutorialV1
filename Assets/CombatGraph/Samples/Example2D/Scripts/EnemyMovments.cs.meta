@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7ec97dc415d78af4ead65db134b4a41d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example2D/Scripts/EnemyMovments.cs
+  uploadId: 762780

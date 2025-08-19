@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6e451dfe35d2bfb45a9196bb84779e76
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Runtime/CombatGraphCore/BattleEffects/Boosters/CritDamageIncrease.cs
+  uploadId: 762780

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d32d25acbf5bee54abdf9bbb95fae4b4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Runtime/CombatGraphCore/Essentials/AttackStatus.cs
+  uploadId: 762780

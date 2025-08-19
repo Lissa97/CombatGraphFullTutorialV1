@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 620e476f2d47ce941a080b495a944cb3
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example3D/Scripts/DelayedDisappear.cs
+  uploadId: 762780

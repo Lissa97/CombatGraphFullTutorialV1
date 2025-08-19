@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 724e27bfccdd5954ab22b4d9708353d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322353
+  packageName: Combat Graph
+  packageVersion: 1.0.0
+  assetPath: Assets/CombatGraph/Samples/Example2D/CombatEntities/Enemy.asset
+  uploadId: 762780
