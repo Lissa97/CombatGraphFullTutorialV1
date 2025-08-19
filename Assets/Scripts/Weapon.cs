@@ -17,16 +17,16 @@ class Weapon : MonoBehaviour
         spriteRenderer.enabled = false;
     }
 
-    internal void Attack()
+    internal void Attack(AttackData attackData, CombatEntity damageDealer)
     {
-        StartCoroutine(AttackWithDelay());
+        StartCoroutine(AttackWithDelay(attackData, damageDealer));
     }
 
-    IEnumerator AttackWithDelay()
+    IEnumerator AttackWithDelay(AttackData attackData, CombatEntity damageDealer)
     {
         foreach (var hitter in hitters)
         {
-            hitter.GetHit();
+            hitter.GetHit(attackData, damageDealer);
         }
 
         spriteRenderer.enabled = true;

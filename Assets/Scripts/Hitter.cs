@@ -2,8 +2,10 @@ using UnityEngine;
 using CombatGraph;
 class Hitter : MonoBehaviour
 {
-    public void GetHit()
+    [SerializeField] private CombatEntity damageTaker;
+    public void GetHit(AttackData attackData, CombatEntity damageDealer)
     {
-        Debug.Log(name + " got hit");
+        damageTaker.TakeDamage(attackData, damageDealer);
+        Debug.Log(name + " got hit. Current HP: " + damageTaker.CurrentHp);
     }
 }

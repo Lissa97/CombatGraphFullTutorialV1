@@ -4,20 +4,31 @@ using UnityEngine;
 class PlayerAttack : MonoBehaviour
 {
     [SerializeField] private Weapon weapon;
-    [SerializeField] private float delayTime = 0.5f;
+    [SerializeField] private Bullet bullet;
+    [SerializeField] private CombatEntity combatEntity;
 
-    private float lastAttackTime = 0f;
     private void Update()
     {
-        if (Time.time - lastAttackTime < delayTime)
-        {
-            return;
-        }
-
         if (Input.GetKey("x"))
         {
-            lastAttackTime = Time.time;
-            weapon.Attack();
+            var attackData = combatEntity.Attack("SwordHit");
+            if (!attackData.IsAvalible) return;
+
+            weapon.Attack(attackData, combatEntity);
+        }
+
+        if(Input.GetKey("y"))
+        {
+            var attackData = combatEntity.Attack("BulletHit");
+            if(!attackData.IsAvalible) return;
+
+            Instantiate(bullet, transform.position, Quaternion.identity)
+                .Initialize(
+                    attackData,
+                    combatEntity,
+                    Mathf.Abs(transform.eulerAngles.y % 360 - 180) < 1 ? 
+                    Vector3.right : Vector3.left
+                );
         }
     }
 }
